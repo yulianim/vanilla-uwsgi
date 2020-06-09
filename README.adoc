@@ -8,6 +8,10 @@ Implementation of a a python uWSGI server able to process an HTTP POST requests 
 - Pip 20
 - pip3 install wsgi
 - pip3 install json
+- Android Studio 3.6.3
+- Gradle 3.6.3
+- SDK 29
+- Java 8
 
 == Execution
 
